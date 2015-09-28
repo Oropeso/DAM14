@@ -22,6 +22,7 @@ public class Ejercicios {
 		while ((cad=bf.readLine())!=null)
 		{
 			System.out.println(cad);
+			int k;
 		}
 	}
 }
